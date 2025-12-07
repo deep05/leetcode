@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deep05/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/deep05/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/deep05/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deep05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deep05/leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/deep05/leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/deep05/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
