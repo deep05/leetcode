@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/deep05/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/deep05/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deep05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/deep05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deep05/leetcode/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deep05/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deep05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
